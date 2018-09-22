@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SerresTech - The Technology community of Serres, Greece</title>
-    <link>http://serrestech.gr/tags/</link>
+    <link>https://serrestech.gr/tags/</link>
     <description>Recent content in Tags on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://serrestech.gr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://serrestech.gr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018</title>
-      <link>http://serrestech.gr/tags/2018/</link>
+      <link>https://serrestech.gr/tags/2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/tags/2018/</guid>
+      <guid>https://serrestech.gr/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2019</title>
-      <link>http://serrestech.gr/tags/2019/</link>
+      <link>https://serrestech.gr/tags/2019/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/tags/2019/</guid>
+      <guid>https://serrestech.gr/tags/2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>http://serrestech.gr/tags/events/</link>
+      <link>https://serrestech.gr/tags/events/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/tags/events/</guid>
+      <guid>https://serrestech.gr/tags/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meetups</title>
-      <link>http://serrestech.gr/tags/meetups/</link>
+      <link>https://serrestech.gr/tags/meetups/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/tags/meetups/</guid>
+      <guid>https://serrestech.gr/tags/meetups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>http://serrestech.gr/tags/schedule/</link>
+      <link>https://serrestech.gr/tags/schedule/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/tags/schedule/</guid>
+      <guid>https://serrestech.gr/tags/schedule/</guid>
       <description></description>
     </item>
     

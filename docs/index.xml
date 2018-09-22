@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SerresTech - The Technology community of Serres, Greece</title>
-    <link>http://serrestech.gr/</link>
+    <link>https://serrestech.gr/</link>
     <description>Recent content on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Call for Speakers 2019</title>
-      <link>http://serrestech.gr/blog/2018/09/call-for-speakers-2019/</link>
+      <link>https://serrestech.gr/blog/2018/09/call-for-speakers-2019/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/blog/2018/09/call-for-speakers-2019/</guid>
+      <guid>https://serrestech.gr/blog/2018/09/call-for-speakers-2019/</guid>
       <description>If you are interested to make a presentation, a workshop or any other talk related to our community interests feel free to submit the &amp;ldquo;Call for Speakers&amp;rdquo; form here.
 The submissions will help us organize better our meetups.
  The events take place in the city of Serres in Greece mostly in the evening hours. We are open to any dates and topics. Professional speakers from abroad may have extra benefits such as lanches, accomodation, travel tickets etc.</description>
@@ -24,10 +24,10 @@ The submissions will help us organize better our meetups.
     
     <item>
       <title>Hackathon 2018</title>
-      <link>http://serrestech.gr/blog/2018/03/hackathon-2018/</link>
+      <link>https://serrestech.gr/blog/2018/03/hackathon-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/blog/2018/03/hackathon-2018/</guid>
+      <guid>https://serrestech.gr/blog/2018/03/hackathon-2018/</guid>
       <description>Hackathon 2018 announcement As every year SerresTech community is going to organize a 2 days Hackathon open to everyone.
 Last year 2017 Hackathon Serres 2.0 is also archived for reference
 A dedicated website for the 2018 hackathon has been created. Join it or share the news!
@@ -36,10 +36,10 @@ Hackathon Serres No3 - 2018</description>
     
     <item>
       <title>About</title>
-      <link>http://serrestech.gr/about/</link>
+      <link>https://serrestech.gr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/about/</guid>
+      <guid>https://serrestech.gr/about/</guid>
       <description>Who we are We are an open, non-profit community for anyone interested in software development: software methodologies, frameworks, design approaches, testing are amongst the topics that may be covered in our community. The main reason for setting up this community is to provide a place for software professionals in the area to meet and exchange ideas and experiences.
 Our location We are located in Serres, Greece.
 Our members Currently we count more than 230 registered members.</description>
@@ -47,10 +47,10 @@ Our members Currently we count more than 230 registered members.</description>
     
     <item>
       <title>Contact</title>
-      <link>http://serrestech.gr/contact/</link>
+      <link>https://serrestech.gr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://serrestech.gr/contact/</guid>
+      <guid>https://serrestech.gr/contact/</guid>
       <description> How can we help you? Please feel free to contact us by email or any of social network account.
  Email Twitter Facebook Meetup.com Slack channel   Call for Speakers 2019  </description>
     </item>

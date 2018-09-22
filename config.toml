@@ -1,4 +1,4 @@
-baseurl = "http://serrestech.gr/"
+baseurl = "https://serrestech.gr/"
 title = "SerresTech - The Technology community of Serres, Greece"
 theme = "serrestech"
 themesDir = "themes"
