@@ -1,0 +1,50 @@
+/* your styles go here */
+
+.icon {
+  font-size: 30px;
+}
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand {
+  height: 90px;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-light-gray {
+  color: #999;
+}
+
+#top .social {
+  margin-top: 3px;
+}
+
+#top .social a {
+  color: #999;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 0;
+  line-height: 20px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: bottom;
+  margin: 0 4px;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    padding-top: 34px;
+    padding-bottom: 34px;
+  }
+}

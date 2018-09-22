@@ -1,4 +1,4 @@
-baseurl = "http://serrestech.gr"
+baseurl = "http://serrestech.gr/"
 title = "SerresTech - The Technology community of Serres, Greece"
 theme = "serrestech"
 themesDir = "themes"
@@ -9,6 +9,7 @@ defaultContentLanguage = "en"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+publishDir = "docs"
 
 # Define the number of posts per page
 paginate = 10

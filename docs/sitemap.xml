@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://serrestech.gr/blog/2018/09/call-for-speakers-2019/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/blog/2018/03/hackathon-2018/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/2018/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/2019/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/blog/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/events/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/categories/hackathon/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/meetups/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/categories/planning/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/schedule/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://serrestech.gr/tags/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
