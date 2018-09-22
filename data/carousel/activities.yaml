@@ -1,0 +1,11 @@
+weight: 1
+title: "Activities"
+description: >
+  <ul class="list-style-none">
+     <li>Presentations</li>
+     <li>Collaborations</li>
+     <li>Open days</li>
+     <li>Hackathon</li>
+     <li>Meetings</li>
+   </ul>
+image: "img/carousel/training.png"

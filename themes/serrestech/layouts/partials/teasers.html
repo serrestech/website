@@ -1,0 +1,24 @@
+{{ if isset .Site.Params "teasers" }}
+{{ if .Site.Params.teasers.enable }}
+{{ if gt (len .Site.Data.teasers) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        {{ range $index, $element := sort .Site.Data.teasers "weight" }}
+				<div class="col-md-6">
+            <div class="box-simple">
+                <div class="icon">
+                    <i class="{{ .icon }}"></i>
+                </div>
+                <h3>{{ $element.name }}</h3>
+                <p>{{ $element.description | markdownify }}</p>
+                <a href="{{ $element.link }}" class="btn btn-primary btn-lg">{{ $element.linktext }}</a>
+                <br>
+                <br>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

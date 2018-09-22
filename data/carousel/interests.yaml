@@ -1,0 +1,11 @@
+weight: 2
+title: "Interests"
+description: >
+  <ul class="list-style-none">
+    <li>Software</li>
+    <li>Programming</li>
+    <li>Business</li>
+    <li>Education</li>
+    <li>...</li>
+  </ul>
+image: "img/carousel/desktop.png"
