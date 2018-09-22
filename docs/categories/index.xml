@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SerresTech - The Technology community of Serres, Greece</title>
-    <link>https://serrestech.gr/categories/</link>
+    <link>https://www.serrestech.gr/categories/</link>
     <description>Recent content in Categories on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://serrestech.gr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.serrestech.gr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hackathon</title>
-      <link>https://serrestech.gr/categories/hackathon/</link>
+      <link>https://www.serrestech.gr/categories/hackathon/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://serrestech.gr/categories/hackathon/</guid>
+      <guid>https://www.serrestech.gr/categories/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Planning</title>
-      <link>https://serrestech.gr/categories/planning/</link>
+      <link>https://www.serrestech.gr/categories/planning/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://serrestech.gr/categories/planning/</guid>
+      <guid>https://www.serrestech.gr/categories/planning/</guid>
       <description></description>
     </item>
     
