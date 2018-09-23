@@ -20,11 +20,11 @@ Currently we count more than **230 registered members**. Everyone can be our mem
 ---
 
 ## Our activity
-Among other activities we host public presentations about software, business, technical aspects of life as also as hackathons, seminars, workshops and own projects. The language we use in our meetups is Greek or English (for foreign speakers or members).
+Among other activities we host public presentations about software, business, technical aspects of life as also as hackathons, seminars, workshops and own projects. The language we use in our meetups is Greek or English (for foreign speakers or attendees).
 
 ---
 
-## How to join us
-Feel free to join our group in [Meetup](https://www.meetup.com/Serrai-Software-Development-Meetup) and follow us on social networks. Using out group at Meetup.com will help us plan better our needs for future meetups.
+## Join us
+Feel free to join our group in [Meetup](https://www.meetup.com/Serrai-Software-Development-Meetup) and follow us on social networks. Using our group at Meetup.com will help us plan better our future meetups.
 
 <br><br>
