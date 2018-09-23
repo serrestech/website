@@ -65,6 +65,12 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 5
+    name = "RSS"
+    url = "/index.xml"
+    pre = "<i class='fa fa-2x fa-rss'></i>"
+
+[[menu.topbar]]
+    weight = 6
     name = "Email"
     url = "mailto:info@serrestech.gr"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
