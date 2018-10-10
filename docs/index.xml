@@ -6,10 +6,21 @@
     <description>Recent content on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let us introduce ourselves and let&#39;s talk about Arch Linux</title>
+      <link>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</guid>
+      <description>Είναι η πρώτη συνάντησή μας για τη νέα χρόνια. Θα καλωσορίσουμε τα νέα μέλη, θα παρουσιάσουμε το πλάνο μας για τη νέα χρονιά, το πλούσιο πρόγραμμα διαλέξεων που ετοιμάζουμε και θα συζητήσουμε για το πως θα οργανώσουμε ένα καλύτερο hackathon!
+Αλλά δε θα κάνουμε μόνο αυτό. Το μέλος μας Δημήτρης Κιζιρίδης θα μιλήσει για τη διανομή Arch Linux!
+Πιο συγκεκριμένα θα γίνει demo εγκατάσταση και χρήση του Arch Linux σε VM περιβάλλον, καθώς και παρουσίαση διάφορων Shell, εισαγωγή στα unit files και εξήγηση του systemd.</description>
+    </item>
     
     <item>
       <title>Call for Speakers 2019</title>

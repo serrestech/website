@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schedule on SerresTech - The Technology community of Serres, Greece</title>
-    <link>https://www.serrestech.gr/tags/schedule/</link>
-    <description>Recent content in Schedule on SerresTech - The Technology community of Serres, Greece</description>
+    <title>Meetups on SerresTech - The Technology community of Serres, Greece</title>
+    <link>https://www.serrestech.gr/categories/meetups/</link>
+    <description>Recent content in Meetups on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.serrestech.gr/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.serrestech.gr/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>Είναι η πρώτη συνάντησή μας για τη νέα χρόνια. Θα καλωσορίσουμε τα νέα μέλη, θα παρουσιάσουμε το πλάνο μας για τη νέα χρονιά, το πλούσιο πρόγραμμα διαλέξεων που ετοιμάζουμε και θα συζητήσουμε για το πως θα οργανώσουμε ένα καλύτερο hackathon!
 Αλλά δε θα κάνουμε μόνο αυτό. Το μέλος μας Δημήτρης Κιζιρίδης θα μιλήσει για τη διανομή Arch Linux!
 Πιο συγκεκριμένα θα γίνει demo εγκατάσταση και χρήση του Arch Linux σε VM περιβάλλον, καθώς και παρουσίαση διάφορων Shell, εισαγωγή στα unit files και εξήγηση του systemd.</description>
-    </item>
-    
-    <item>
-      <title>Call for Speakers 2019</title>
-      <link>https://www.serrestech.gr/blog/2018/09/call-for-speakers-2019/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/blog/2018/09/call-for-speakers-2019/</guid>
-      <description>If you are interested to make a presentation, a workshop or any other talk related to our community interests feel free to submit the &amp;ldquo;Call for Speakers&amp;rdquo; form here.
-The submissions will help us organize better our meetups.
- The events take place in the city of Serres in Greece mostly in the evening hours. We are open to any dates and topics. Professional speakers from abroad may have extra benefits such as lanches, accomodation, travel tickets etc.</description>
     </item>
     
   </channel>
