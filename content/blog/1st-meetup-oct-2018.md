@@ -1,5 +1,5 @@
 +++
-title = "Let us introduce ourselves and let's talk about Arch Linux"
+title = "Let's talk about Arch Linux"
 date = "2018-10-10"
 tags = ["meetups", "schedule", "2019", "linux"]
 categories = ["meetups"]
