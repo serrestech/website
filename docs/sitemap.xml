@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.serrestech.gr/blog/2018/11/2nd-meetup-nov-2018/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://www.serrestech.gr/tags/2019/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +40,7 @@
   
   <url>
     <loc>https://www.serrestech.gr/blog/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,14 +72,20 @@
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/tags/meetups/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <loc>https://www.serrestech.gr/categories/meetups/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/categories/meetups/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <loc>https://www.serrestech.gr/tags/meetups/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/microservices/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,13 +97,13 @@
   
   <url>
     <loc>https://www.serrestech.gr/tags/schedule/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.serrestech.gr/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

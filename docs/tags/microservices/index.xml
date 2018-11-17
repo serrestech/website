@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetups on SerresTech - The Technology community of Serres, Greece</title>
-    <link>https://www.serrestech.gr/categories/meetups/</link>
-    <description>Recent content in Meetups on SerresTech - The Technology community of Serres, Greece</description>
+    <title>Microservices on SerresTech - The Technology community of Serres, Greece</title>
+    <link>https://www.serrestech.gr/tags/microservices/</link>
+    <description>Recent content in Microservices on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.serrestech.gr/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.serrestech.gr/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>Στο τελευταίο, πριν το VoxxedDays, meetup θα φιλοξενήσουμε το Γρηγόρη Γρηγοριάδη, software architect στην itsaur!
 Τα microservices συζητιούνται όλο και περισσότερο τα τελευταία χρόνια ως πανάκεια σε όλα τα προβλήματα. Πόσο αλήθεια είναι αυτό. Ο κος Γρηγοριάδης θα μας αναφέρει τις εμπειρίες του από πραγματικά έργα λογισμικού, θα μιλήσει για τα &amp;ldquo;πρέπει&amp;rdquo; και &amp;ldquo;δεν πρέπει&amp;rdquo; αυτής της προσέγγισης!
 Ημερομηνία: Παρασκευή, 16 Νοεμβρίου 2018 Ώρα: 18:00 - 21:00 Χώρος: ΤΕΙ Κεντρικής Μακεδονίας - Σέρρες (Τέρμα Μαγνησίας) Κτίριο Πληροφορικής, Αίθουσα 2.</description>
-    </item>
-    
-    <item>
-      <title>Let&#39;s talk about Arch Linux</title>
-      <link>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</guid>
-      <description>Είναι η πρώτη συνάντησή μας για τη νέα χρόνια. Θα καλωσορίσουμε τα νέα μέλη, θα παρουσιάσουμε το πλάνο μας για τη νέα χρονιά, το πλούσιο πρόγραμμα διαλέξεων που ετοιμάζουμε και θα συζητήσουμε για το πως θα οργανώσουμε ένα καλύτερο hackathon!
-Αλλά δε θα κάνουμε μόνο αυτό. Το μέλος μας Δημήτρης Κιζιρίδης θα μιλήσει για τη διανομή Arch Linux!
-Πιο συγκεκριμένα θα γίνει demo εγκατάσταση και χρήση του Arch Linux σε VM περιβάλλον, καθώς και παρουσίαση διάφορων Shell, εισαγωγή στα unit files και εξήγηση του systemd.</description>
     </item>
     
   </channel>
