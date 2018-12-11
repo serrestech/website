@@ -6,10 +6,21 @@
     <description>Recent content on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software development at CERN</title>
+      <link>https://www.serrestech.gr/blog/2018/12/3rd-meetup-dec-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2018/12/3rd-meetup-dec-2018/</guid>
+      <description>This presentation will provide an introduction to CERN and its operations, focusing on software development and the various opportunities available.
+Afterward there will be a dive into the development process which is followed on the applications, presenting the various technologies, frameworks and practices followed.
+Moreover we will dive into the Accelerators Logging Service one of the major big data projects at CERN and will demonstrate data analysis with Spark on Hadoop (Jupyter).</description>
+    </item>
     
     <item>
       <title>Let&#39;s talk about event based microservices</title>

@@ -1,20 +1,22 @@
 +++
 title = "Software development at CERN"
-date = "2018-12-14"
+date = "2018-12-11"
 tags = ["meetups", "schedule", "2019", "cern"]
 categories = ["meetups"]
 banner = "img/banners/meetup.jpg"
 +++
 
 This presentation will provide an introduction to [CERN](https://home.cern)
-and its operations, focusing on software development and the various opportunities available.
+and its operations, focusing on software development and the various
+opportunities available.
 
 Afterward there will be a dive into the development process which is followed
-on the applications, presenting the various technologies, frameworks and practices followed.
+on the applications, presenting the various technologies, frameworks and
+practices followed.
 
 Moreover we will dive into the Accelerators Logging Service one of the major
-big data projects at CERN and will demonstrate data analysis with [Spark](https://spark.apache.org)
-on [Hadoop](https://hadoop.apache.org/) (Jupyter).
+big data projects at CERN and will demonstrate data analysis with
+[Spark](https://spark.apache.org) on [Hadoop](https://hadoop.apache.org/) (Jupyter).
 
 Last but not least we will conclude with the movement towards integrating
 all these systems together.
@@ -30,10 +32,12 @@ The presentation's outline is the following:
 4. A dive into the "Accelerators Logging Service", one of the major big data projects at CERN. (Grigoris Avgitidis)
 5. Will conclude with the movement towards integrating all these systems together. (Anti Asko)
 
-**Talkers**: [Chris Roderick](https://www.linkedin.com/in/chris-roderick-050869156),
-[Stathis Tantalidis](https://www.linkedin.com/in/stantalid),
-[Grigorios Avgitidis](https://www.linkedin.com/in/grigorios-avgitidis),
-[Anti Asko](https://www.linkedin.com/in/antiasko).
+**Talkers**:
+
+- [Chris Roderick](https://www.linkedin.com/in/chris-roderick-050869156)
+- [Stathis Tantalidis](https://www.linkedin.com/in/stantalid)
+- [Grigorios Avgitidis](https://www.linkedin.com/in/grigorios-avgitidis)
+- [Anti Asko](https://www.linkedin.com/in/antiasko)
 
 ```
 Date:        Παρασκευή, 14 Δεκεμβρίου 2018
