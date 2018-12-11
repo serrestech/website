@@ -6,6 +6,10 @@ categories = ["meetups"]
 banner = "img/banners/meetup.jpg"
 +++
 
+![CERN presentation - Meetup No3 2018-2019](img/banners/meetup_cern.png)
+
+[Get the official Poster](https://secure.meetupstatic.com/photos/event/2/2/f/e/highres_476468958.jpeg)
+
 This presentation will provide an introduction to [CERN](https://home.cern)
 and its operations, focusing on software development and the various
 opportunities available.
