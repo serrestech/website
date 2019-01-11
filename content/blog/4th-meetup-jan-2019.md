@@ -8,7 +8,7 @@ banner = "img/banners/meetup.jpg"
 
 ![Meetup No4 2018-2019](/img/banners/meetup4_2019.png)
 
-[Get the official Poster](#)
+[Get the official Poster](https://secure.meetupstatic.com/photos/event/3/5/3/b/highres_477733627.jpeg)
 
 We are welcoming 2019 with a mini-conference and presenters from three different countries and two different continents!
 
