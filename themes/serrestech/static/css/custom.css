@@ -49,6 +49,12 @@
   }
 }
 
+
+.testimonials .item .testimonial .name-picture p {
+  clear: both;
+  text-align: left;
+}
+
 /**
 * Sharing
 */
