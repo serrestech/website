@@ -37,7 +37,6 @@
     <link href="{{ "css/style.default.css" | relURL}}" rel="stylesheet" id="theme-stylesheet">
   {{ end }}
 
-
   <!-- Custom stylesheet - for your changes -->
   <link href="{{ "css/custom.css" | relURL}}" rel="stylesheet">
 
@@ -59,14 +58,11 @@
 
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
   <!-- Facebook OpenGraph tags -->
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL }}/" />
   <meta property="og:image" content="{{ .Site.Params.logo }}" />
-
   <link rel="me"  href="https://twitter.com/{{ .Site.Params.twitterUsername }}">
-
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>

@@ -30,7 +30,6 @@
     <link href="/css/style.red.css" rel="stylesheet" id="theme-stylesheet">
   
 
-
   
   <link href="/css/custom.css" rel="stylesheet">
 
@@ -57,9 +56,8 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="/tags/linux//" />
   <meta property="og:image" content="img/logo.png" />
-
   <link rel="me"  href="https://twitter.com/serrestech">
-
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 
@@ -373,6 +371,18 @@ if (!doNotTrack) {
 
 
 <script src="https://www.serrestech.gr/js/owl.carousel.min.js"></script>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 
   </body>
