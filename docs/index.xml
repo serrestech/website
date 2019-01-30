@@ -6,10 +6,21 @@
     <description>Recent content on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 11:42:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Official, we now run on Netlify!</title>
+      <link>https://www.serrestech.gr/blog/2019/01/2019-01-30/</link>
+      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2019/01/2019-01-30/</guid>
+      <description>After two months live we finally found out some time to integrate our Hugo built website with Netlify CMS as also as serve the website from Netlify.
+So, yes, we are proud of it and we are very happy to be able to have an Admin Dashboard to create blog posts.
+Stay tuned, we may have a presentation on our Meetup about Netlify, Hugo and Jamstack soon!</description>
+    </item>
     
     <item>
       <title>Mini conference: Java Security, Testing practices and Team dynamics</title>
