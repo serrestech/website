@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  identity_url: "https://www.serrestech.gr/.netlify/identity"
+  gateway_url: "https://www.serrestech.gr/.netlify/git/github"
   branch: master
 media_folder: "static/img/banners"
 public_folder: "/img/banners"
