@@ -7,7 +7,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
+# Enable Google Analytics
 googleAnalytics = "UA-6649652-62"
 publishDir = "docs"
 
@@ -15,65 +15,54 @@ publishDir = "docs"
 paginate = 10
 
 [menu]
-# Main menu
 
 [[menu.main]]
     name = "Home"
     url  = "/"
     weight = 1
-
 [[menu.main]]
     name = "About"
     url  = "/about"
     weight = 2
-
 [[menu.main]]
     name = "Meetups"
     url  = "/categories/meetups/"
     weight = 3
-
 [[menu.main]]
     name = "News"
     url  = "/blog/"
     weight = 4
-
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
     weight = 5
 
 # Top bar social links menu
-
 [[menu.topbar]]
     weight = 1
     name = "Meetup"
     url = "https://www.meetup.com/Serrai-Software-Development-Meetup"
     pre = "<i class='fab fa-2x fa-meetup'></i>"
-
 [[menu.topbar]]
     weight = 2
     name = "GitHub"
     url = "https://github.com/serrestech"
     pre = "<i class='fab fa-2x fa-github'></i>"
-
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
     url = "https://www.facebook.com/SerresTech"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
-
 [[menu.topbar]]
     weight = 4
     name = "Twitter"
     url = "https://twitter.com/serrestech"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
-
 [[menu.topbar]]
     weight = 5
     name = "RSS"
     url = "/index.xml"
     pre = "<i class='fa fa-2x fa-rss'></i>"
-
 [[menu.topbar]]
     weight = 6
     name = "Email"
@@ -141,18 +130,14 @@ paginate = 10
 
 [params.features]
     enable = 0
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # All features are defined at '/data/features'.
 
 [params.teasers]
     enable = true
 
 [params.testimonials]
     enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
+    # All testimonials are defined at '/data/testimonials'.
     title = "Our Members"
     subtitle = "We are open to any people. Have a look what our members say about SerresTech."
 
@@ -166,9 +151,7 @@ paginate = 10
 
 [params.clients]
     enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
+    # All clients are defined at '/data/clients'.
     title = "Our Sponsors"
     subtitle = ""
 
