@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.serrestech.gr/blog/2019/02/2019-02-20/</loc>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2019/01/2019-01-30/</loc>
     <lastmod>2019-01-29T11:42:00+00:00</lastmod>
   </url>
@@ -55,7 +60,7 @@
   
   <url>
     <loc>https://www.serrestech.gr/blog/</loc>
-    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -148,13 +153,25 @@
   
   <url>
     <loc>https://www.serrestech.gr/</loc>
-    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.serrestech.gr/tags/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/volunteers/</loc>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/%CE%B5%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</loc>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
