@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on SerresTech - The Technology community of Serres, Greece</title>
+    <link>https://www.serrestech.gr/categories/hackathon/</link>
+    <description>Recent content in Hackathon on SerresTech - The Technology community of Serres, Greece</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.serrestech.gr/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hackathon 2018</title>
+      <link>https://www.serrestech.gr/blog/2018/03/hackathon-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2018/03/hackathon-2018/</guid>
+      <description>Hackathon 2018 announcement As every year SerresTech community is going to organize a 2 days Hackathon open to everyone.
+Last year 2017 Hackathon Serres 2.0 is also archived for reference
+A dedicated website for the 2018 hackathon has been created. Join it or share the news!
+Hackathon Serres No3 - 2018</description>
+    </item>
+    
+  </channel>
+</rss>
