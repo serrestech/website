@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hackathon 2019</title>
+      <link>https://www.serrestech.gr/blog/2019/05/hackathon-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2019/05/hackathon-2019/</guid>
+      <description>Hackathon Serres 2019 - Web Attack Mining Η τεχνολογική κοινότητα Σερρών SerresTech.gr και το Πρόγραμμα Μεταπτυχιακών Σπουδών στην Εφαρμοσμένη Πληροφορική του Τμήματος Μηχανικών Πληροφορικής, ΤΕΙ Κεντρικής Μακεδονίας (Σερρών) διοργανώνουν το 4ο Hackathon Serres με θέμα &amp;ldquo;Web Attack Mining&amp;ldquo; το Σάββατο 18 και την Κυριακή 19 Μαΐου 2019.
+Μετά την επιτυχή διοργάνωση του 2018 ο διαγωνισμός επαναλαμβάνεται αυτή τη φορά με την εμπειρία 3 πλέον διοργανώσεων (2016, 2017, 2018) καθώς και με την υποστήριξη περισσότερων φορέων και εταιρειών.</description>
+    </item>
     
     <item>
       <title>ΑΝΟΙΚΤΗ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΥΠΟΨΗΦΙΟΥΣ (ΠΕΡΙΦΕΡΕΙΑΡΧΕΣ, ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΕΣ ΚΑΙ ΔΗΜΑΡΧΟΥΣ)</title>
