@@ -6,10 +6,30 @@
     <description>Recent content in Meetups on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 19:56:19 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let&#39;s talk about mining software repositories and a promising idea for an open source project</title>
+      <link>https://www.serrestech.gr/blog/2019/12/2019-12-08/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2019/12/2019-12-08/</guid>
+      <description>A lot of the time, software engineers work with large software bases for which they know little. Moreover. they may feel that the software base is too large and needs refactoring; they might also have some ideas on how to restructure their code but have no guidance or reassurance that what they propose is correct.
+This is were software repository mining can help! Mining from software repositories is a software engineering field where software practitioners and researchers use data mining techniques to analyze the data in software repositories to extract useful and actionable information produced by developers during the development process.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about security in the era of IIoT (Ασφάλεια στην εποχή του IIoT)</title>
+      <link>https://www.serrestech.gr/blog/2019/11/2019-11-25/</link>
+      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2019/11/2019-11-25/</guid>
+      <description>Στην εποχή μας αρκετά μεγάλο κομμάτι της βιομηχανίας στηρίζεται σε αυτό που ονομάζεται Internet of Things. Αισθητήρες, PLCs, Actuators συνδέονται και μεταδίδουν πληροφορίες για μια ευρεία γκάμα βιομηχανιών από την παραγωγή ενέργειας μέχρι τον αγροτικό τομέα. Πολλοί αναφέρονται σε αυτή τη χρήση των συνδεδεμένων συσκευών ως Industrial Internet of Things, ενώ άλλοι το ορίζουν απλώς ως Industry 4.0
+Στη σημερινή ομιλία θα γίνει μια παρουσίαση των κινδύνων ασφαλείας που υπάρχουν στο Industry 4.</description>
+    </item>
     
     <item>
       <title>Mini conference: Java Security, Testing practices and Team dynamics</title>
@@ -17,18 +37,6 @@
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/blog/2019/01/4th-meetup-jan-2019/</guid>
-      <description>Get the official Poster
-We are welcoming 2019 with a mini-conference and presenters from three different countries and two different continents!
-This time we will host three different talks in a mini conference meetup on Saturday:
- A talk on Java security architecture, by Martin Toshev, member of the Bulgarian Java User Group and Software Architect at Resolve Systems Agile Testing Practices, with examples on Java, by John Pourdanis, Test Automation Engineer, ISTQB Certified Tester working at Pheron LTD (SchooX group).</description>
-    </item>
-    
-    <item>
-      <title>Mini conference: Java Security, Testing practices and Team dynamics</title>
-      <link>https://www.serrestech.gr/blog/2019/01/4th-meetup-jan-20190/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/blog/2019/01/4th-meetup-jan-20190/</guid>
       <description>Get the official Poster
 We are welcoming 2019 with a mini-conference and presenters from three different countries and two different continents!
 This time we will host three different talks in a mini conference meetup on Saturday:

@@ -23,7 +23,7 @@
     <item>
       <title>2019</title>
       <link>https://www.serrestech.gr/tags/2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/2019/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/cern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>https://www.serrestech.gr/tags/data-mining/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/data-mining/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,24 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://www.serrestech.gr/tags/git/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>https://www.serrestech.gr/tags/iot/</link>
+      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/iot/</guid>
       <description></description>
     </item>
     
@@ -86,7 +113,7 @@
     <item>
       <title>Meetups</title>
       <link>https://www.serrestech.gr/tags/meetups/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/meetups/</guid>
       <description></description>
@@ -125,6 +152,33 @@
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.serrestech.gr/tags/security/</link>
+      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Architecture</title>
+      <link>https://www.serrestech.gr/tags/software-architecture/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Mining</title>
+      <link>https://www.serrestech.gr/tags/software-mining/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/software-mining/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on SerresTech - The Technology community of Serres, Greece</title>
+    <link>https://www.serrestech.gr/tags/data-mining/</link>
+    <description>Recent content in Data Mining on SerresTech - The Technology community of Serres, Greece</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 19:56:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.serrestech.gr/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s talk about mining software repositories and a promising idea for an open source project</title>
+      <link>https://www.serrestech.gr/blog/2019/12/2019-12-08/</link>
+      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2019/12/2019-12-08/</guid>
+      <description>A lot of the time, software engineers work with large software bases for which they know little. Moreover. they may feel that the software base is too large and needs refactoring; they might also have some ideas on how to restructure their code but have no guidance or reassurance that what they propose is correct.
+This is were software repository mining can help! Mining from software repositories is a software engineering field where software practitioners and researchers use data mining techniques to analyze the data in software repositories to extract useful and actionable information produced by developers during the development process.</description>
+    </item>
+    
+  </channel>
+</rss>

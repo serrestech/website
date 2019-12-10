@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.serrestech.gr/blog/2019/12/2019-12-08/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/blog/2019/11/2019-11-25/</loc>
+    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2019/05/hackathon-2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +34,6 @@
   
   <url>
     <loc>https://www.serrestech.gr/blog/2019/01/4th-meetup-jan-2019/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/blog/2019/01/4th-meetup-jan-20190/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,7 +70,7 @@
   
   <url>
     <loc>https://www.serrestech.gr/tags/2019/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +80,7 @@
   
   <url>
     <loc>https://www.serrestech.gr/blog/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,6 +97,12 @@
   
   <url>
     <loc>https://www.serrestech.gr/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/data-mining/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,8 +124,20 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/git/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/categories/hackathon/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/iot/</loc>
+    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,14 +160,14 @@
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/tags/meetups/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <loc>https://www.serrestech.gr/categories/meetups/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/categories/meetups/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <loc>https://www.serrestech.gr/tags/meetups/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,8 +208,26 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/security/</loc>
+    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/software-architecture/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/software-mining/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
