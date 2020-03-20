@@ -6,21 +6,22 @@
     <description>Recent content in Categories on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2020 12:13:03 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>General</title>
-      <link>https://www.serrestech.gr/categories/general/</link>
-      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
+      <title>meetups</title>
+      <link>https://www.serrestech.gr/categories/meetups/</link>
+      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
       
-      <guid>https://www.serrestech.gr/categories/general/</guid>
+      <guid>https://www.serrestech.gr/categories/meetups/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hackathon</title>
+      <title>hackathon</title>
       <link>https://www.serrestech.gr/categories/hackathon/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -29,16 +30,7 @@
     </item>
     
     <item>
-      <title>Meetups</title>
-      <link>https://www.serrestech.gr/categories/meetups/</link>
-      <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/categories/meetups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Letters</title>
+      <title>open-letters</title>
       <link>https://www.serrestech.gr/categories/open-letters/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -47,7 +39,16 @@
     </item>
     
     <item>
-      <title>Planning</title>
+      <title>general</title>
+      <link>https://www.serrestech.gr/categories/general/</link>
+      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
       <link>https://www.serrestech.gr/categories/planning/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       

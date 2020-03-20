@@ -6,10 +6,22 @@
     <description>Recent content in Blogs on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 19:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 12:13:03 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Μια συζήτηση με τον Πάτροκλο Παπαπέτρου - Αναβάλλεται</title>
+      <link>https://www.serrestech.gr/blog/2020/03/2020-03-06/</link>
+      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/03/2020-03-06/</guid>
+      <description>Δυστυχώς λόγω των εξελίξεων με την επιδημία που πλήττει τη χώρα μας και τον υπόλοιπο κόσμο η συνάντηση αναβάλλεται!
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-
+Την Παρασκευή 13/03/2020 στην αίθουσα 2.1 στο Διεθνές Πανεπιστήμιο, Τμήμα Μηχανικών Πληροφορικής, Υπολογιστών και Τηλεπικοινωνιών (Σέρρες) στις 19:30 θα φιλοξενήσουμε τον Πάτροκλο Παπαπέτρου, Principal Software Engineer της Elastic
+Ο Πάτροκλος είναι όμως εκτός των άλλων γνωστός στην κοινότητα για τις δράσεις του (Διοργανωτής για χρόνια του Java Meetup της Θεσσαλονίκης) αλλά και πίσω από τα VoxxedDays conferences σε Θεσσαλονίκη και Αθήνα!</description>
+    </item>
     
     <item>
       <title>Let&#39;s talk about mining software repositories and a promising idea for an open source project</title>

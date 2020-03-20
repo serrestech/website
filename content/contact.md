@@ -15,4 +15,4 @@ Please feel free to contact us by email or any of social network account.
 
 ----
 
-- [Call for Speakers 2019](https://goo.gl/NZv6SG)
+- [Call for Speakers 2020](https://goo.gl/NZv6SG)

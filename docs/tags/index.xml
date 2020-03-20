@@ -6,17 +6,26 @@
     <description>Recent content in Tags on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 12:13:03 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2018</title>
-      <link>https://www.serrestech.gr/tags/2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Career</title>
+      <link>https://www.serrestech.gr/tags/career/</link>
+      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
       
-      <guid>https://www.serrestech.gr/tags/2018/</guid>
+      <guid>https://www.serrestech.gr/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote working</title>
+      <link>https://www.serrestech.gr/tags/remote-working/</link>
+      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/remote-working/</guid>
       <description></description>
     </item>
     
@@ -30,16 +39,7 @@
     </item>
     
     <item>
-      <title>Cern</title>
-      <link>https://www.serrestech.gr/tags/cern/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/cern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Mining</title>
+      <title>data mining</title>
       <link>https://www.serrestech.gr/tags/data-mining/</link>
       <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
@@ -48,25 +48,7 @@
     </item>
     
     <item>
-      <title>Elections</title>
-      <link>https://www.serrestech.gr/tags/elections/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/elections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://www.serrestech.gr/tags/events/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
+      <title>git</title>
       <link>https://www.serrestech.gr/tags/git/</link>
       <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
@@ -75,43 +57,7 @@
     </item>
     
     <item>
-      <title>Iot</title>
-      <link>https://www.serrestech.gr/tags/iot/</link>
-      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jamstack</title>
-      <link>https://www.serrestech.gr/tags/jamstack/</link>
-      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/jamstack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://www.serrestech.gr/tags/linux/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Community</title>
-      <link>https://www.serrestech.gr/tags/local-community/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/local-community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meetups</title>
+      <title>meetups</title>
       <link>https://www.serrestech.gr/tags/meetups/</link>
       <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
@@ -120,52 +66,7 @@
     </item>
     
     <item>
-      <title>Microservices</title>
-      <link>https://www.serrestech.gr/tags/microservices/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/microservices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Netlify</title>
-      <link>https://www.serrestech.gr/tags/netlify/</link>
-      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/netlify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Remote</title>
-      <link>https://www.serrestech.gr/tags/remote/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/remote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://www.serrestech.gr/tags/schedule/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/schedule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://www.serrestech.gr/tags/security/</link>
-      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Architecture</title>
+      <title>software architecture</title>
       <link>https://www.serrestech.gr/tags/software-architecture/</link>
       <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
@@ -174,7 +75,7 @@
     </item>
     
     <item>
-      <title>Software Mining</title>
+      <title>software mining</title>
       <link>https://www.serrestech.gr/tags/software-mining/</link>
       <pubDate>Sun, 08 Dec 2019 19:56:19 +0000</pubDate>
       
@@ -183,7 +84,52 @@
     </item>
     
     <item>
-      <title>Volunteers</title>
+      <title>IoT</title>
+      <link>https://www.serrestech.gr/tags/iot/</link>
+      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://www.serrestech.gr/tags/security/</link>
+      <pubDate>Mon, 25 Nov 2019 12:05:06 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://www.serrestech.gr/tags/events/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elections</title>
+      <link>https://www.serrestech.gr/tags/elections/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/elections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>local community</title>
+      <link>https://www.serrestech.gr/tags/local-community/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/local-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volunteers</title>
       <link>https://www.serrestech.gr/tags/volunteers/</link>
       <pubDate>Wed, 20 Feb 2019 11:15:53 +0000</pubDate>
       
@@ -192,11 +138,83 @@
     </item>
     
     <item>
-      <title>Εθελοντισμός</title>
+      <title>εθελοντισμός</title>
       <link>https://www.serrestech.gr/tags/%CE%B5%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</link>
       <pubDate>Wed, 20 Feb 2019 11:15:53 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/%CE%B5%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamstack</title>
+      <link>https://www.serrestech.gr/tags/jamstack/</link>
+      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/jamstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>https://www.serrestech.gr/tags/netlify/</link>
+      <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote</title>
+      <link>https://www.serrestech.gr/tags/remote/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schedule</title>
+      <link>https://www.serrestech.gr/tags/schedule/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cern</title>
+      <link>https://www.serrestech.gr/tags/cern/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/cern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>https://www.serrestech.gr/tags/microservices/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.serrestech.gr/tags/linux/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>https://www.serrestech.gr/tags/2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/2018/</guid>
       <description></description>
     </item>
     

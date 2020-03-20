@@ -3,8 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.serrestech.gr/blog/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/career/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/categories/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/categories/meetups/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/remote-working/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/blog/2020/03/2020-03-06/</loc>
+    <lastmod>2020-03-06T12:13:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/2019/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/data-mining/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/git/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2019/12/2019-12-08/</loc>
     <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/meetups/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/software-architecture/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/software-mining/</loc>
+    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/iot/</loc>
+    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +88,38 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/security/</loc>
+    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/events/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/categories/hackathon/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2019/05/hackathon-2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/elections/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/local-community/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/categories/open-letters/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +128,33 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/volunteers/</loc>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2019/02/2019-02-20/</loc>
     <lastmod>2019-02-20T11:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/%CE%B5%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</loc>
+    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/categories/general/</loc>
+    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/jamstack/</loc>
+    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/netlify/</loc>
+    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,6 +168,21 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/remote/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/schedule/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/cern/</loc>
+    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2018/12/3rd-meetup-dec-2018/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
   </url>
@@ -48,7 +193,17 @@
   </url>
   
   <url>
+    <loc>https://www.serrestech.gr/tags/microservices/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.serrestech.gr/blog/2018/10/1st-meetup-oct-2018/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.serrestech.gr/tags/linux/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,20 +213,18 @@
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/blog/2018/03/hackathon-2018/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <loc>https://www.serrestech.gr/categories/planning/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.serrestech.gr/tags/2018/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/tags/2019/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.serrestech.gr/blog/2018/03/hackathon-2018/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,174 +232,7 @@
   </url>
   
   <url>
-    <loc>https://www.serrestech.gr/blog/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/cern/</loc>
-    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.serrestech.gr/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/data-mining/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/elections/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/events/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/general/</loc>
-    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/git/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/hackathon/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/iot/</loc>
-    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/jamstack/</loc>
-    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/linux/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/local-community/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/meetups/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/meetups/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/microservices/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/netlify/</loc>
-    <lastmod>2019-01-29T11:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/open-letters/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/categories/planning/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/remote/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/schedule/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/security/</loc>
-    <lastmod>2019-11-25T12:05:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/software-architecture/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/software-mining/</loc>
-    <lastmod>2019-12-08T19:56:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/volunteers/</loc>
-    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.serrestech.gr/tags/%CE%B5%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</loc>
-    <lastmod>2019-02-20T11:15:53+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
