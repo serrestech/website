@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meetup on SerresTech - The Technology community of Serres, Greece</title>
+    <link>https://www.serrestech.gr/tags/meetup/</link>
+    <description>Recent content in meetup on SerresTech - The Technology community of Serres, Greece</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 11:19:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.serrestech.gr/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Apache Kafka</title>
+      <link>https://www.serrestech.gr/blog/2020/04/2020-04-10/</link>
+      <pubDate>Fri, 10 Apr 2020 11:19:31 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/04/2020-04-10/</guid>
+      <description>Πρωτοπόροι όπως πάντα κανονίσαμε ένα online meetup!
+Ο Γρηγόρης Γρηγοριάδης, της itsaur δέχτηκε και θα μας κάνει μια online εισαγωγή στην πλατφόρμα Apache Kafka. Για όσους έχουν έλθει και σε παλαιότερα meetup, είναι γνωστός από την καταπληκτική παρουσίαση που έκανε για τα microservices περίπου πριν 1.5 χρόνο.
+Η πλατφόρμα Kafka επιτρέπει τη διαχείριση ροών δεδομένων σε πραγματικό χρόνο. Επιτρέπει πολλούς &amp;ldquo;παραγωγούς&amp;rdquo; (producers) να γράφουν δεδομένα (μηνύματα) σε ουρές από τις οποίες μπορούν να τα διαβάζουν πολλοί &amp;ldquo;καταναλωτές&amp;rdquo; (consumers).</description>
+    </item>
+    
+  </channel>
+</rss>

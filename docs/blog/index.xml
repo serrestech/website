@@ -6,10 +6,33 @@
     <description>Recent content in Blogs on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 12:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 11:50:57 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4η Επέτειος Serres Hackathon</title>
+      <link>https://www.serrestech.gr/blog/2020/04/2020-04-16/</link>
+      <pubDate>Thu, 16 Apr 2020 11:50:57 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/04/2020-04-16/</guid>
+      <description>4 χρόνια πριν, τέτοια εποχή διοργανώναμε το πρώτο μας hackathon!
+Για την ιστορία, το repository του νικητή είναι ακόμα εδώ: https://github.com/pror21/FreeFood
+Οι ομάδες που συμμετείχαν:
+   Ομάδα Project      Free Food: Χάρτης με μαγαζιά που προσφέρουν δωρεάν προετοιμασμένο φαγητό όταν αυτό δεν κατάφερε να πουληθεί   newbies Διαχείριση λίστας καλεσμένων γάμου μέσω QR code   bash.tar.ds Εφαρμογή καταγραφής προσφυγικών ροών για την οργάνωση των hot spot και την «έξυπνη» αναζήτηση κάποιου χαμένου προσώπου   Stark Industries Mini social Network: Χρήστες θα κάνουν λογαριασμό, θα μπορούν να στέλνουν μυνήματα, να ανεβάζουν φωτογραφίες, να κάνουν follow, like   Code Bots Social network το οποίο θα εστιάζει στην προσωπική εξέλιξη του χρήστη θέτοντας στόχους.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Apache Kafka</title>
+      <link>https://www.serrestech.gr/blog/2020/04/2020-04-10/</link>
+      <pubDate>Fri, 10 Apr 2020 11:19:31 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/04/2020-04-10/</guid>
+      <description>Πρωτοπόροι όπως πάντα κανονίσαμε ένα online meetup!
+Ο Γρηγόρης Γρηγοριάδης, της itsaur δέχτηκε και θα μας κάνει μια online εισαγωγή στην πλατφόρμα Apache Kafka. Για όσους έχουν έλθει και σε παλαιότερα meetup, είναι γνωστός από την καταπληκτική παρουσίαση που έκανε για τα microservices περίπου πριν 1.5 χρόνο.
+Η πλατφόρμα Kafka επιτρέπει τη διαχείριση ροών δεδομένων σε πραγματικό χρόνο. Επιτρέπει πολλούς &amp;ldquo;παραγωγούς&amp;rdquo; (producers) να γράφουν δεδομένα (μηνύματα) σε ουρές από τις οποίες μπορούν να τα διαβάζουν πολλοί &amp;ldquo;καταναλωτές&amp;rdquo; (consumers).</description>
+    </item>
     
     <item>
       <title>Μια συζήτηση με τον Πάτροκλο Παπαπέτρου - Αναβάλλεται</title>
