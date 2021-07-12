@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SerresTech - The Technology community of Serres, Greece</title>
@@ -6,10 +6,28 @@
     <description>Recent content in Tags on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 11:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 11:08:49 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSGeo</title>
+      <link>https://www.serrestech.gr/tags/osgeo/</link>
+      <pubDate>Mon, 30 Nov 2020 11:08:49 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/osgeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OAuth</title>
+      <link>https://www.serrestech.gr/tags/oauth/</link>
+      <pubDate>Fri, 20 Nov 2020 18:15:46 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/oauth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anniversary</title>
@@ -53,6 +71,15 @@
       <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote</title>
+      <link>https://www.serrestech.gr/tags/remote/</link>
+      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/tags/remote/</guid>
       <description></description>
     </item>
     
@@ -197,15 +224,6 @@
       <pubDate>Tue, 29 Jan 2019 11:42:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/tags/netlify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>remote</title>
-      <link>https://www.serrestech.gr/tags/remote/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/tags/remote/</guid>
       <description></description>
     </item>
     

@@ -101,8 +101,8 @@ paginate = 10
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
-    email = "info@serrestech.gr"
+    # Enable the contact form by entering your Formspree.io email
+    #email = "info@serrestech.gr"
 
     about_us = ""
     copyright = "Copyright &copy; 2019, SerresTech. All rights reserved. <br><b>SerresTech - The technology community of Serres, Greece.</b>"

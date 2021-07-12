@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SerresTech - The Technology community of Serres, Greece</title>
@@ -6,10 +6,34 @@
     <description>Recent content on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 11:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 11:08:49 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let&#39;s talk about... open source geo tools</title>
+      <link>https://www.serrestech.gr/blog/2020/11/2020-11-30/</link>
+      <pubDate>Mon, 30 Nov 2020 11:08:49 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/11/2020-11-30/</guid>
+      <description>Με ιδιαιτερη χαρα ανακοινωνουμε το νεο meetup μας με τιτλο
+Τίτλος Εισαγωγή στο ελεύθερο γεωχωρικό λογισμικό, στην κοινότητα OSGeo και το OpenStreetMap
+Εισηγητές Άγγελος Τζώτσος, Χρήστος Ιωσηφίδης
+
+Ο Άγγελος Τζώτσος είναι Δρ Τοπογράφος Μηχανικός ΕΜΠ. Είναι Πρόεδρος του Open Source Geospatial Foundation και μέλος του Open Geospatial Consortium. Έχει πάνω από 20 χρόνια εμπειρία στην ανάπτυξη Ελεύθερου Λογισμικού, στην Γεωπληροφορική και την Τηλεπισκόπηση.
+Είναι επιστημονικός και τεχνικός υπεύθυνος του geodata.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about OpenId-Connect and Keycloak</title>
+      <link>https://www.serrestech.gr/blog/2020/11/2020-11-20/</link>
+      <pubDate>Fri, 20 Nov 2020 18:15:46 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/blog/2020/11/2020-11-20/</guid>
+      <description>Εδώ και 4 χρόνια, η κοινότητα SerresTech και το Τμήμα Μηχανικών Πληροφορικής, Υπολογιστών και Τηλεπικοινωνιών του Διεθνούς πανεπιστημίου οργανώνουν σεμινάρια για διάφορα θέματα που αφορούν στην ανάπτυξη λογισμικού.
+Δυστυχώς τα γνωστά προβλήματα που δημιούργησε ο Covid-19 έθεσαν και τα σεμινάρια αυτά &amp;hellip; εκτός τροχιάς. Όμως, καθώς προσπαθούμε να βρούμε το ρυθμό μας είπαμε να ξαναρχίσουμε τις παρουσιάσεις μας. Έτσι θα έχουμε το πρώτο μας σεμινάριο για το νέο ακαδημαϊκό έτος 2020-2021.</description>
+    </item>
     
     <item>
       <title>4η Επέτειος Serres Hackathon</title>
@@ -72,7 +96,7 @@ This is were software repository mining can help! Mining from software repositor
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/blog/2019/05/hackathon-2019/</guid>
-      <description>Hackathon Serres 2019 - Web Attack Mining Η τεχνολογική κοινότητα Σερρών SerresTech.gr και το Πρόγραμμα Μεταπτυχιακών Σπουδών στην Εφαρμοσμένη Πληροφορική του Τμήματος Μηχανικών Πληροφορικής, ΤΕΙ Κεντρικής Μακεδονίας (Σερρών) διοργανώνουν το 4ο Hackathon Serres με θέμα &amp;ldquo;Web Attack Mining&amp;ldquo; το Σάββατο 18 και την Κυριακή 19 Μαΐου 2019.
+      <description>Hackathon Serres 2019 - Web Attack Mining Η τεχνολογική κοινότητα Σερρών SerresTech.gr και το Πρόγραμμα Μεταπτυχιακών Σπουδών στην Εφαρμοσμένη Πληροφορική του Τμήματος Μηχανικών Πληροφορικής, ΤΕΙ Κεντρικής Μακεδονίας (Σερρών) διοργανώνουν το 4ο Hackathon Serres με θέμα &amp;ldquo;Web Attack Mining&amp;rdquo; το Σάββατο 18 και την Κυριακή 19 Μαΐου 2019.
 Μετά την επιτυχή διοργάνωση του 2018 ο διαγωνισμός επαναλαμβάνεται αυτή τη φορά με την εμπειρία 3 πλέον διοργανώσεων (2016, 2017, 2018) καθώς και με την υποστήριξη περισσότερων φορέων και εταιρειών.</description>
     </item>
     
@@ -82,8 +106,7 @@ This is were software repository mining can help! Mining from software repositor
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/blog/2019/02/election-2019-open-letter/</guid>
-      <description>ΑΝΟΙΚΤΗ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΥΠΟΨΗΦΙΟΥΣ 2019 (ΠΕΡΙΦΕΡΕΙΑΡΧΕΣ, ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΕΣ ΚΑΙ ΔΗΜΑΡΧΟΥΣ) Υπογραφω την Ανοιχτη Επιστολη
-Η κοινότητα SerresTech (www.serrestech.gr) είναι μια ζωντανή κοινότητα εθελοντών, που αριθμεί τη συγκεκριμένη στιγμή πάνω από 280 άτομα και έχει ως κύριο στόχο την διαμόρφωση ενός περιβάλλοντος ευνοϊκού για την εξέλιξη της τεχνολογίας και ειδικότερα της βιομηχανίας λογισμικού στην περιοχή μας.
+      <description>ΑΝΟΙΚΤΗ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΥΠΟΨΗΦΙΟΥΣ 2019 (ΠΕΡΙΦΕΡΕΙΑΡΧΕΣ, ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΕΣ ΚΑΙ ΔΗΜΑΡΧΟΥΣ) Υπογραφω την Ανοιχτη ΕπιστοληΗ κοινότητα SerresTech (www.serrestech.gr) είναι μια ζωντανή κοινότητα εθελοντών, που αριθμεί τη συγκεκριμένη στιγμή πάνω από 280 άτομα και έχει ως κύριο στόχο την διαμόρφωση ενός περιβάλλοντος ευνοϊκού για την εξέλιξη της τεχνολογίας και ειδικότερα της βιομηχανίας λογισμικού στην περιοχή μας.
 Όμως η διαμόρφωση ενός ευνοϊκού για την τεχνολογία περιβάλλοντος περνά και μέσα από αποφάσεις και της τοπικής (δημοτικής και περιφερειακής) διοίκησης.</description>
     </item>
     
@@ -176,7 +199,7 @@ The submissions will help us organize better our meetups.
       <description>Hackathon 2018 announcement As every year SerresTech community is going to organize a 2 days Hackathon open to everyone.
 Last year 2017 Hackathon Serres 2.0 is also archived for reference
 A dedicated website for the 2018 hackathon has been created. Join it or share the news!
-Hackathon Serres No3 - 2018</description>
+ Hackathon Serres No3 - 2018 </description>
     </item>
     
     <item>
@@ -186,8 +209,8 @@ Hackathon Serres No3 - 2018</description>
       
       <guid>https://www.serrestech.gr/about/</guid>
       <description>Who we are We are an open, non-profit community for anyone interested in software development: software methodologies, frameworks, design approaches, testing are amongst the topics that may be covered in our community. The main reason for setting up this community is to provide a place for software professionals in the area to meet and exchange ideas and experiences.
-Our location We are located in Serres, Greece.
-Our members Currently we count more than 230 registered members.</description>
+ Our location We are located in Serres, Greece.
+ Our members Currently we count more than 230 registered members.</description>
     </item>
     
     <item>
@@ -196,8 +219,8 @@ Our members Currently we count more than 230 registered members.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/contact/</guid>
-      <description> How can we help you? Please feel free to contact us by email or any of social network account.
- Email Twitter Facebook Meetup.com Slack channel   Call for Speakers 2020  </description>
+      <description>How can we help you? Please feel free to contact us by email or any of social network account.
+ Email Twitter Facebook Meetup.com Slack channel   </description>
     </item>
     
   </channel>

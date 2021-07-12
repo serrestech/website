@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SerresTech - The Technology community of Serres, Greece</title>
@@ -6,24 +6,15 @@
     <description>Recent content in Categories on SerresTech - The Technology community of Serres, Greece</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 11:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 11:08:49 +0000</lastBuildDate>
     
 	<atom:link href="https://www.serrestech.gr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hackathon</title>
-      <link>https://www.serrestech.gr/categories/hackathon/</link>
-      <pubDate>Thu, 16 Apr 2020 11:50:57 +0000</pubDate>
-      
-      <guid>https://www.serrestech.gr/categories/hackathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meetup</title>
       <link>https://www.serrestech.gr/categories/meetup/</link>
-      <pubDate>Fri, 10 Apr 2020 11:19:31 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 11:08:49 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/categories/meetup/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>meetups</title>
       <link>https://www.serrestech.gr/categories/meetups/</link>
-      <pubDate>Fri, 06 Mar 2020 12:13:03 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 11:08:49 +0000</pubDate>
       
       <guid>https://www.serrestech.gr/categories/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://www.serrestech.gr/categories/hackathon/</link>
+      <pubDate>Thu, 16 Apr 2020 11:50:57 +0000</pubDate>
+      
+      <guid>https://www.serrestech.gr/categories/hackathon/</guid>
       <description></description>
     </item>
     
