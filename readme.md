@@ -47,7 +47,7 @@ hugo
 ```
 git add .
 git commit -m "Your commit message"
-git push origin master
+git push origin main
 ```
 
 #### 8. Open https://www.serrestech.gr
