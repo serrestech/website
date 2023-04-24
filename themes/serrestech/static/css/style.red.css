@@ -2168,6 +2168,11 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-post #post-content {
   margin-bottom: 20px;
 }
+
+#blog-post p {
+  font-size: 16px;
+}
+
 #blog-post .comment {
   margin-bottom: 25px;
 }
