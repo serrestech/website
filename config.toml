@@ -55,21 +55,26 @@ paginate = 10
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 [[menu.topbar]]
     weight = 4
+    name = "Instagram"
+    url = "https://instagram.com/serrestech"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+[[menu.topbar]]
+    weight = 5
     name = "Twitter"
     url = "https://twitter.com/serrestech"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 [[menu.topbar]]
-    weight = 5
+    weight = 6
     name = "Youtube"
     url = "https://www.youtube.com/channel/UCYmD_me-cgDR4GKcj8AQt0Q/"
     pre = "<i class='fab fa-2x fa-youtube'></i>"
 [[menu.topbar]]
-    weight = 6
+    weight = 7
     name = "RSS"
     url = "/index.xml"
     pre = "<i class='fa fa-2x fa-rss'></i>"
 [[menu.topbar]]
-    weight = 7
+    weight = 8
     name = "Email"
     url = "mailto:info@serrestech.gr"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
